@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727456128428",
+    "project_id": "puzzleandbakemonzu",
+    "storage_bucket": "puzzleandbakemonzu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727456128428:android:f6d91f9113fcd2b9702e09",
+        "android_client_info": {
+          "package_name": "com.Pane.PuzzleAndBakemonzu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgR0Q5SubHe8Zj8_yrGhsCdaIWudfxZ2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
